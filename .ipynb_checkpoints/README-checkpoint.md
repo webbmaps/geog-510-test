@@ -1,11 +1,11 @@
-# Geog-510-test
+# geog-510-test
 test repo for lab assignment
 
-## Introduction
+##Introduction
 Practice markdown for lesson in Geog 510
 
 ## Usage
-Practice in jupyter lab
+Practice
 
 ## Contributors
 Me for now.
